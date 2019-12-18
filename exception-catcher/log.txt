@@ -1,0 +1,20 @@
+Exception: AAAA aaaaAAdkahdkajshda in /Applications/MAMP/htdocs/scripts/exception-catcher/index.php:9
+Stack trace:
+#0 /Applications/MAMP/htdocs/scripts/exception-catcher/index.php(12): controllerThrowsException()
+#1 {main}
+
+Exception: AAAA aaaaAAdkahdkajshda in /Applications/MAMP/htdocs/scripts/exception-catcher/index.php:11
+Stack trace:
+#0 /Applications/MAMP/htdocs/scripts/exception-catcher/index.php(14): controllerThrowsException()
+#1 {main}
+
+Exception: AAAA aaaaAAdkahdkajshda in /Applications/MAMP/htdocs/scripts/exception-catcher/index.php:16
+Stack trace:
+#0 /Applications/MAMP/htdocs/scripts/exception-catcher/index.php(19): controllerThrowsException()
+#1 {main}
+
+Exception: AAAA aaaaAAdkahdkajshda in /Applications/MAMP/htdocs/scripts/exception-catcher/index.php:16
+Stack trace:
+#0 /Applications/MAMP/htdocs/scripts/exception-catcher/index.php(21): controllerThrowsException()
+#1 {main}
+

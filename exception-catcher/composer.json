@@ -1,0 +1,12 @@
+{
+	"name": "morphable/exception-catcher",
+	"description": "catches exceptions and transports them",
+	"require": {
+		"php": "^7.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"ExceptionCatcher\\": "src/"
+		}
+	}
+}
